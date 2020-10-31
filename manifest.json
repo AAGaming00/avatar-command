@@ -1,0 +1,7 @@
+{
+  "name": "Avatar command",
+  "description": "command to change your avatar from a directory",
+  "author": "AAGaming",
+  "license": "MIT",
+  "version": "0.0.1"
+}
